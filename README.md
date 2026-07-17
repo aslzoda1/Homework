@@ -100,6 +100,3 @@ Ushbu ilova dunyoning eng foydali 20 ta veb-resursini bitta portalga jamlaydi. L
 <p align="center">
 <b>💎 MISSION ACCOMPLISHED — 𝟎𝟒.𝟏𝟏.𝟐𝟎𝟐𝟓 💎</b>
 </p>
-
-
-aslzoda
