@@ -13,6 +13,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/505a0fcd-f4b9-40af-8ff0-b9c9f83429a1" />
 
 <p align="center">
 <a href="https://github.com/Aslzoda"><img src="https://img.shields.io/badge/ARCHITECT-ASLZODA-FDD835?style=for-the-badge&logo=android&logoColor=black"></a>
